@@ -58,7 +58,7 @@ body{
 
 .section-title {
     font-size: 2rem;
-    color: #4cb853;
+    color: #fffafc;
     margin-bottom: 2rem;
     position: relative;
 }
@@ -205,6 +205,7 @@ body{
         text-align: center;
     }
 }
+
 
 
 
