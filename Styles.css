@@ -186,7 +186,7 @@ body{
 
 /* ---------- Footer ---------- */
 .footer {
-    background: #000000;
+    background: #5aba98;
     color: white;
     text-align: center;
     padding: 1rem;
@@ -205,4 +205,5 @@ body{
         text-align: center;
     }
 }
+
 
